@@ -1,0 +1,7 @@
+project_id = "mnrassdxhwykmldzubzr"
+
+[functions.send-proforma-email]
+verify_jwt = true
+
+[functions.admin-update-user]
+verify_jwt = false
